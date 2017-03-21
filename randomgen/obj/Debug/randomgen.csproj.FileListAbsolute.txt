@@ -1,0 +1,6 @@
+C:\Users\Lou75\tiy\week-2\randomgen\randomgen\bin\Debug\randomgen.exe.config
+C:\Users\Lou75\tiy\week-2\randomgen\randomgen\bin\Debug\randomgen.exe
+C:\Users\Lou75\tiy\week-2\randomgen\randomgen\bin\Debug\randomgen.pdb
+C:\Users\Lou75\tiy\week-2\randomgen\randomgen\obj\Debug\randomgen.csprojResolveAssemblyReference.cache
+C:\Users\Lou75\tiy\week-2\randomgen\randomgen\obj\Debug\randomgen.exe
+C:\Users\Lou75\tiy\week-2\randomgen\randomgen\obj\Debug\randomgen.pdb
